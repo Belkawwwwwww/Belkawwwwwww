@@ -1,10 +1,12 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ6dnNzY215dnp0c2p3cGxxNWJpOHBvMHZyNHVrOWo3czhyanY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"width="300" style="display: block; margin: 0 auto;"/>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGJ6dnNzY215dnp0c2p3cGxxNWJpOHBvMHZyNHVrOWo3czhyanY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"width="300" style="display: block; margin: 0 auto;"
 </div>
+  
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+My name is Alena. I'm a frontend developer with a real passion for creating attractive and complex interfaces. I really enjoy creating modern visuals. 
+
+
 <div align="center">
   <h2>:woman_technologist: About Me :</h2>
 </div>
